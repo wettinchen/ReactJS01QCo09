@@ -7,7 +7,8 @@ https://youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
 ### Dave Gray 的 YouTube 頻道
 https://www.youtube.com/@DaveGrayTeachesCode
 
-## ReactJS Chapter 01 Quick Concept outline
+## ReactJS Chapter 01
+   Quick Concept outline
    中文摘要說明與重點提問
 
 ### 1. Intro 
