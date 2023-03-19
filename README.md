@@ -1,6 +1,3 @@
-## ReactJS01QCo08
-It is my coding practice with the TUTORIAL of Dave Gray. 
-
 ## Source
 ### Dave Gray 的 Reactjs 課程
 https://youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
